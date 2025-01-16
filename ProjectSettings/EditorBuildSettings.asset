@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Pure Poly/Free Low Poly Nature Pack/Scenes/Demo_01.unity
+    guid: 164fc101ab8f1584d9f3f9772734e457
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f40a78b41df04e846b53a86d129d1ecf,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 12099c6b0fe53eb49bb02e34576d5797,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
